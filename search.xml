@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[一切都是最好的安排]]></title>
+    <url>%2F2018%2F10%2F15%2Fno2%2F</url>
+    <content type="text"><![CDATA[人生难得是糊涂，凡事有得必有失，老天总是公平的，给了你完美的爱情，就不一定会有富足的生活；给了你鲜衣怒马的人生，就不一定会拥有寻常人的快乐和健康。 古时候在边塞地区，有一个老头儿，人称塞翁。一次，他养的一匹好马突然失踪了，邻居和亲友们听说后，都跑来安慰他。他却并不焦急，笑了笑说：“马虽然丢了，怎么知道这就不是一件好事呢？” 几个月过去了。有一天，老头儿丢失的那匹马居然回来了，还意外地带回来一匹好马。 这事轰动了全村，人们纷纷向老人祝贺。可是老头儿并不高兴。他对大家说：“这有什么可以祝贺的呀，谁能料到这不是一场灾祸呢！” 几天之后，老人的独生子骑着那匹好马玩，这匹马不熟悉它的新主人，乱跑乱窜，将小伙子摔了下来，把腿摔瘸了。人们听说了，又来安慰老人。可是老人仍然不焦急，他说：“说不定还是件好事呢！” 后来，边境上发生了战争，很多青年人被征调入伍，上了前线，伤亡了十之八九，只有老头儿的儿子因为身体残废，留在家里，才侥幸活了下来。 “塞翁失马”的成语就是这个故事。它常常与“焉知非福”连在一起使用，意思是老翁丢失了马，哪里知道就不是福气呢？ 在人的一生中所遭遇的困境和不解，在当下或许难以接受的。但在过后某一时刻会突然觉得，啊 ~ 这一切都是最好的安排。]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[上帝模式（完全控制面板)]]></title>
+    <url>%2F2018%2F10%2F14%2Fno1%2F</url>
+    <content type="text"><![CDATA[科普一下什么是Win10上帝模式。【从Windows Vista开始，Windows系统就存在一个上帝模式，所谓“上帝模式”就是一个包含所有Win10设置的默认隐藏文件夹，可以看做是传统控制面板选项的完全展开。而在Windows10系统中，更为激进，“设置”取代了控制面板，所以开启上帝模式后对于电脑的设置非常便捷快速。】 ##1.在桌面的空白处点击一下右键。然后【新建】—-【文件夹】## ##2.这一步非常重要在新建的文件夹名称中输入##上帝模式.{ED7BA470-8E54-465E-825C-99712043E01C}上帝模式这几个字是可以随意更改的。]]></content>
+      <categories>
+        <category>设置学习</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F10%2F14%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
