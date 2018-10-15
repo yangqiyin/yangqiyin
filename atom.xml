@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-14T14:43:32.759Z</updated>
+  <updated>2018-10-15T04:43:09.546Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>no1</title>
+    <title>上帝模式（完全控制面板)</title>
     <link href="http://yoursite.com/2018/10/14/no1/"/>
     <id>http://yoursite.com/2018/10/14/no1/</id>
     <published>2018-10-14T14:43:32.000Z</published>
-    <updated>2018-10-14T14:43:32.759Z</updated>
+    <updated>2018-10-15T04:43:09.546Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;科普一下什么是Win10上帝模式。&lt;br&gt;【从Windows Vista开始，Windows系统就存在一个上帝模式，所谓“上帝模式”就是一个包含所有Win10设置的默认隐藏文件夹，可以看做是传统控制面板选项的完全展开。而在Windows10系统中，更为激进，“设置”取代了控制面板，所以开启上帝模式后对于电脑的设置非常便捷快速。】&lt;br&gt;
     
     </summary>
     
