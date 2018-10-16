@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-15T12:48:31.675Z</updated>
+  <updated>2018-10-16T11:30:47.373Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Next主题优化完成</title>
+    <link href="http://yoursite.com/2018/10/16/no4/"/>
+    <id>http://yoursite.com/2018/10/16/no4/</id>
+    <published>2018-10-16T11:15:35.000Z</published>
+    <updated>2018-10-16T11:30:47.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>  我把我之前的博客覆盖了，因为我电脑换了系统，所以以前的没了，加上我能力有限，无法恢复以前的博客，所以我就索性直接把以前的博客给覆盖了，两个晚上的时间，六个小时。<br>  hexo 个人博客还是蛮有意思的，一个属于自己的博客。自己可以在里面发发文章，可以分享自己的一些学习心得，哈哈！我现在还是一名高中生，能接触到这些东西我觉得自己已经非常的不错了<--more-->，这还得多感谢我的启蒙导师潘老师，我想如果不是遇到潘老师我可能到现在还接触不到这些东西，扯远了。<br>  搭建一个属于自己的个人博客还是蛮简单的，随便在网上搜索就可以查到相关的教程，一下就把博客个性化，显得很高大上的感觉，哇哈哈！！</--more--></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;  我把我之前的博客覆盖了，因为我电脑换了系统，所以以前的没了，加上我能力有限，无法恢复以前的博客，所以我就索性直接把以前的博客给覆盖了，两个晚上的时间，六个小时。&lt;br&gt;  hexo 个人博客还是蛮有意思的，一个属于自己的博客。自己可以在里面发发文章，可以分享自己的一些学
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>NexT主题添加点击爱心效果</title>
