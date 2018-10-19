@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-19T14:11:56.522Z</updated>
+  <updated>2018-10-19T14:26:38.809Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/10/19/no7/"/>
     <id>http://yoursite.com/2018/10/19/no7/</id>
     <published>2018-10-19T13:44:36.000Z</published>
-    <updated>2018-10-19T14:11:56.522Z</updated>
+    <updated>2018-10-19T14:26:38.809Z</updated>
     
-    <content type="html"><![CDATA[<p>同学的系统被他自己玩坏了，然后要重新装一个win10的系统，所以就要我帮他下一个镜像包，我把下载位置设置到D盘。快要下载完的时候突然显示下载失败，我打开资源管理器，发现我的D盘不见了，我当时还以为是坏了，我想了下觉得得不可能，于是我打开浏览器，百度了一下，找到了解决办法：<a id="more"></a></p><h1 id="1-win-R运行"><a href="#1-win-R运行" class="headerlink" title="1.win+R运行"></a>1.win+R运行</h1><p>开始/运行输入regedit回车打开注册表编辑器，<br><img src="/2018/10/19/no7/images/4.jpg" alt="“运行”"><br><strong>依次展开</strong><br>[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]子键，在右侧的窗口将一个名为“NoDrives”的键值项删除，重启电脑即可。<br><img src="/2018/10/19/no7/images/5.jpg" alt="“设置”"></p>]]></content>
+    <content type="html"><![CDATA[<p>同学的系统被他自己玩坏了，然后要重新装一个win10的系统，所以就要我帮他下一个镜像包，我把下载位置设置到D盘。快要下载完的时候突然显示下载失败，我打开资源管理器，发现我的D盘不见了，我当时还以为是坏了，我想了下觉得得不可能，于是我打开浏览器，百度了一下，找到了解决办法：<a id="more"></a></p><h1 id="1-win-R运行"><a href="#1-win-R运行" class="headerlink" title="1.win+R运行"></a>1.win+R运行</h1><p>开始/运行输入regedit回车打开注册表编辑器<br><img src="/2018/10/19/no7/images/4.jpg" alt="“运行”"><br><strong>依次展开</strong><br>[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]子键，在右侧的窗口将一个名为“NoDrives”的键值项删除，重启电脑即可。<br><img src="/2018/10/19/no7/images/5.jpg" alt="“设置”"></p>]]></content>
     
     <summary type="html">
     
