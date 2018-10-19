@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-19T14:05:35.673Z</updated>
+  <updated>2018-10-19T14:08:30.239Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/10/19/no7/"/>
     <id>http://yoursite.com/2018/10/19/no7/</id>
     <published>2018-10-19T13:44:36.000Z</published>
-    <updated>2018-10-19T14:05:35.673Z</updated>
+    <updated>2018-10-19T14:08:30.239Z</updated>
     
     <content type="html"><![CDATA[<p>同学的系统被他自己玩坏了，然后要重新装一个win10的系统，所以就要我帮他下一个镜像包，我把下载位置设置到D盘。快要下载完的时候突然显示下载失败，我打开资源管理器，发现我的D盘不见了，我当时还以为是坏了，我想了下觉得得不可能，于是我打开浏览器，百度了一下，找到了解决办法：<a id="more"></a></p><h1 id="1-win-R运行"><a href="#1-win-R运行" class="headerlink" title="1.win+R运行"></a>1.win+R运行</h1><p>开始/运行输入regedit回车打开注册表编辑器，<br><img src="/2018/10/19/no7/images/4.jpg" alt="“设运”"><br><strong>依次展开</strong><br>[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]子键，在右侧的窗口将一个名为“NoDrives”的键值项删除，重启电脑即可。<br><img src="/2018/10/19/no7/images/5.jpg" alt="“设置”"></p>]]></content>
     
@@ -45,12 +45,12 @@
     <published>2018-10-18T13:46:32.000Z</published>
     <updated>2018-10-18T14:37:18.584Z</updated>
     
-    <content type="html"><![CDATA[<p>目前的话博客网站使用的评论功能，网易云多说已经下线了。友言好像也不行<br>畅言的话比较麻烦，来比力国外的，也挺简单就设置好了，所以我推荐大家选择这个</p><h2 id="1-注册站好（有点小麻烦）"><a href="#1-注册站好（有点小麻烦）" class="headerlink" title="1.注册站好（有点小麻烦）"></a>1.注册站好（有点小麻烦）</h2><p>打开来必力官网：[来比力]（<a href="https://livere.com）" target="_blank" rel="noopener">https://livere.com）</a><br><a id="more"></a></p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h2><h1 id="点击上方的安装，选择免费city。"><a href="#点击上方的安装，选择免费city。" class="headerlink" title="点击上方的安装，选择免费city。"></a>点击上方的安装，选择免费city。</h1><p><img src="/images/1.jpg" alt="“安装”"></p><h2 id="3-安装后会出现这个界面"><a href="#3-安装后会出现这个界面" class="headerlink" title="3.安装后会出现这个界面"></a>3.安装后会出现这个界面</h2><p><img src="/images/2.jpg" alt="“代码”"></p><h1 id="复制其中的uid字段。"><a href="#复制其中的uid字段。" class="headerlink" title="复制其中的uid字段。"></a>复制其中的uid字段。</h1><p>打开主题目录下的<b>blog/themes/next/_config.yml</b>配置文件，定位到<b>livere_uid</b>字段，粘贴上刚刚复制的UID。<br><img src="/images/3.jpg" alt="“设置”"><br>至此，大功告成。</p>]]></content>
+    <content type="html"><![CDATA[<p>目前的话博客网站使用的评论功能，网易云多说已经下线了。友言好像也不行<br>畅言的话比较麻烦，来比力国外的，也挺简单就设置好了，所以我推荐大家选择这个</p><h2 id="1-注册站好（有点小麻烦）"><a href="#1-注册站好（有点小麻烦）" class="headerlink" title="1.注册站好（有点小麻烦）"></a>1.注册站好（有点小麻烦）</h2><p>打开来必力官网：[来比力]（<a href="https://livere.com）" target="_blank" rel="noopener">https://livere.com）</a><br><a id="more"></a></p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h2><h1 id="点击上方的安装，选择免费city。"><a href="#点击上方的安装，选择免费city。" class="headerlink" title="点击上方的安装，选择免费city。"></a>点击上方的安装，选择免费city。</h1><p><img src="/2018/10/18/no6/images/1.jpg" alt="“安装”"></p><h2 id="3-安装后会出现这个界面"><a href="#3-安装后会出现这个界面" class="headerlink" title="3.安装后会出现这个界面"></a>3.安装后会出现这个界面</h2><p><img src="/2018/10/18/no6/images/2.jpg" alt="“代码”"></p><h1 id="复制其中的uid字段。"><a href="#复制其中的uid字段。" class="headerlink" title="复制其中的uid字段。"></a>复制其中的uid字段。</h1><p>打开主题目录下的<b>blog/themes/next/_config.yml</b>配置文件，定位到<b>livere_uid</b>字段，粘贴上刚刚复制的UID。<br><img src="/2018/10/18/no6/images/3.jpg" alt="“设置”"><br>至此，大功告成。</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;目前的话博客网站使用的评论功能，网易云多说已经下线了。友言好像也不行&lt;br&gt;畅言的话比较麻烦，来比力国外的，也挺简单就设置好了，所以我推荐大家选择这个&lt;/p&gt;
-&lt;h2 id=&quot;1-注册站好（有点小麻烦）&quot;&gt;&lt;a href=&quot;#1-注册站好（有点小麻烦）&quot; class=&quot;headerlink&quot; title=&quot;1.注册站好（有点小麻烦）&quot;&gt;&lt;/a&gt;1.注册站好（有点小麻烦）&lt;/h2&gt;&lt;p&gt;打开来必力官网：[来比力]（&lt;a href=&quot;https://livere.com）&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://livere.com）&lt;/a&gt;&lt;br&gt;
+&lt;h2 id=&quot;1-注册站好（有点小麻烦）&quot;&gt;&lt;a href=&quot;#1-注册站好（有点小麻烦）&quot; class=&quot;headerlink&quot; title=&quot;1.注册站好（有点小麻烦）&quot;&gt;&lt;/a&gt;1.注册站好（有点小麻烦）&lt;/h2&gt;&lt;p&gt;打开来必力官网：[来比力]（&lt;a href=&quot;https://livere.com）&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://livere.com）&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -75,7 +75,7 @@
       &lt;p&gt;Python是一种计算机程序设计语言。你可能已经听说过很多种流行的编程语言，比如非常难学的C语言，非常流行的Java语言，适合初学者的Basic语言，适合网页编程的JavaScript语言等等。&lt;/p&gt;
 &lt;p&gt;那Python是一种什么语言？&lt;/p&gt;
 &lt;p&gt;首先，我们普及一下编程语言的基础知识。用任何编程语言来开发程序，都是为了让计算机干活，比如下载一个MP3，编写一个文档等等，而计算机干活的CPU只认识机器指令，所以，尽管不同的编程语言差异极大，最后都得“翻译”成CPU可以执行的机器指令。而不同的编程语言，干同一个活，编写的代码量，差距也很大。&lt;/p&gt;
-&lt;p&gt;比如，完成同一个任务，C语言要写1000行代码，Java只需要写100行，而Python可能只要20行。&lt;br&gt;
+&lt;p&gt;比如，完成同一个任务，C语言要写1000行代码，Java只需要写100行，而Python可能只要20行。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -97,7 +97,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;  我把我之前的博客覆盖了，因为我电脑换了系统，所以以前的没了，加上我能力有限，无法恢复以前的博客，所以我就索性直接把以前的博客给覆盖了，两个晚上的时间，六个小时。&lt;br&gt;  hexo 个人博客还是蛮有意思的，一个属于自己的博客。自己可以在里面发发文章，可以分享自己的一些学习心得，哈哈！我现在还是一名高中生，能接触到这些东西我觉得自己已经非常的不错了
+      &lt;p&gt;  我把我之前的博客覆盖了，因为我电脑换了系统，所以以前的没了，加上我能力有限，无法恢复以前的博客，所以我就索性直接把以前的博客给覆盖了，两个晚上的时间，六个小时。&lt;br&gt;  hexo 个人博客还是蛮有意思的，一个属于自己的博客。自己可以在里面发发文章，可以分享自己的一些学习心得，哈哈！我现在还是一名高中生，能接触到这些东西我觉得自己已经非常的不错了&lt;/p&gt;
     
     </summary>
     
@@ -142,7 +142,7 @@
     <summary type="html">
     
       &lt;p&gt;人生难得是糊涂，凡事有得必有失，老天总是公平的，给了你完美的爱情，就不一定会有富足的生活；给了你鲜衣怒马的人生，就不一定会拥有寻常人的快乐和健康。&lt;/p&gt;
-&lt;p&gt;古时候在边塞地区，有一个老头儿，人称塞翁。一次，他养的一匹好马突然失踪了，邻居和亲友们听说后，都跑来安慰他。他却并不焦急，笑了笑说：“马虽然丢了，怎么知道这就不是一件好事呢？” 几个月过去了。
+&lt;p&gt;古时候在边塞地区，有一个老头儿，人称塞翁。一次，他养的一匹好马突然失踪了，邻居和亲友们听说后，都跑来安慰他。他却并不焦急，笑了笑说：“马虽然丢了，怎么知道这就不是一件好事呢？” 几个月过去了。&lt;/p&gt;
     
     </summary>
     
@@ -164,7 +164,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;科普一下什么是Win10上帝模式。&lt;br&gt;【从Windows Vista开始，Windows系统就存在一个上帝模式，所谓“上帝模式”就是一个包含所有Win10设置的默认隐藏文件夹，可以看做是传统控制面板选项的完全展开。而在Windows10系统中，更为激进，“设置”取代了控制面板，所以开启上帝模式后对于电脑的设置非常便捷快速。】&lt;br&gt;
+      &lt;p&gt;科普一下什么是Win10上帝模式。&lt;br&gt;【从Windows Vista开始，Windows系统就存在一个上帝模式，所谓“上帝模式”就是一个包含所有Win10设置的默认隐藏文件夹，可以看做是传统控制面板选项的完全展开。而在Windows10系统中，更为激进，“设置”取代了控制面板，所以开启上帝模式后对于电脑的设置非常便捷快速。】&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
