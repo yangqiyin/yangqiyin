@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[D盘突然不见了怎么办？]]></title>
+    <url>%2F2018%2F10%2F19%2Fno7%2F</url>
+    <content type="text"><![CDATA[同学的系统被他自己玩坏了，然后要重新装一个win10的系统，所以就要我帮他下一个镜像包，我把下载位置设置到D盘。快要下载完的时候突然显示下载失败，我打开资源管理器，发现我的D盘不见了，我当时还以为是坏了，我想了下觉得得不可能，于是我打开浏览器，百度了一下，找到了解决办法： 1.win+R运行开始/运行输入regedit回车打开注册表编辑器依次展开[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]子键，在右侧的窗口将一个名为“NoDrives”的键值项删除，重启电脑即可。]]></content>
+      <categories>
+        <category>设置学习</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo 添加评论区]]></title>
     <url>%2F2018%2F10%2F18%2Fno6%2F</url>
-    <content type="text"><![CDATA[目前的话博客网站使用的评论功能，网易云多说已经下线了。友言好像也不行畅言的话比较麻烦，来比力国外的，也挺简单就设置好了，所以我推荐大家选择这个 1.注册站好（有点小麻烦）打开来必力官网：[来比力]（https://livere.com） 2.安装点击上方的安装，选择免费city。 3.安装后会出现这个界面 复制其中的uid字段。打开主题目录下的blog/themes/next/_config.yml配置文件，定位到livere_uid字段，粘贴上刚刚复制的UID。至此，大功告成。]]></content>
+    <content type="text"><![CDATA[目前的话博客网站使用的评论功能，网易云多说已经下线了。友言好像也不行畅言的话比较麻烦，来比力国外的，也挺简单就设置好了，所以我推荐大家选择这个 1.注册站好（有点小麻烦）打开来必力官网：[来比力]（https://livere.com） 2.安装点击上方的安装，选择免费city。3.安装后会出现这个界面复制其中的uid字段。打开主题目录下的blog/themes/next/_config.yml配置文件，定位到livere_uid字段，粘贴上刚刚复制的UID。至此，大功告成。]]></content>
       <categories>
         <category>Hexo Next 主题优化</category>
       </categories>
