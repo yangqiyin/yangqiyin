@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[123]]></title>
+    <url>%2F2018%2F11%2F01%2F123%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F01%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[D盘突然不见了怎么办？]]></title>
     <url>%2F2018%2F10%2F19%2Fno7%2F</url>
     <content type="text"><![CDATA[同学的系统被他自己玩坏了，然后要重新装一个win10的系统，所以就要我帮他下一个镜像包，我把下载位置设置到D盘。快要下载完的时候突然显示下载失败，我打开资源管理器，发现我的D盘不见了，我当时还以为是坏了，我想了下觉得得不可能，于是我打开浏览器，百度了一下，找到了解决办法： 1.win+R运行开始/运行输入regedit回车打开注册表编辑器依次展开[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]子键，在右侧的窗口将一个名为“NoDrives”的键值项删除，重启电脑即可。]]></content>
@@ -76,10 +86,5 @@
       <tags>
         <tag>学习</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F10%2F14%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
