@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-01T11:53:59.302Z</updated>
+  <updated>2018-11-02T04:26:17.495Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>123</title>
-    <link href="http://yoursite.com/2018/11/01/123/"/>
-    <id>http://yoursite.com/2018/11/01/123/</id>
-    <published>2018-11-01T11:53:59.000Z</published>
-    <updated>2018-11-01T11:53:59.302Z</updated>
+    <title>回来</title>
+    <link href="http://yoursite.com/2018/11/02/no8/"/>
+    <id>http://yoursite.com/2018/11/02/no8/</id>
+    <published>2018-11-02T04:17:05.000Z</published>
+    <updated>2018-11-02T04:26:17.495Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前电脑又坏了，寄到京东售后那边去维修了，前天我才拿到电脑，有点后悔了，买错电脑了，不应该买雷神的，不是雷神不好，而是我不需要游戏笔记本<br>这款配置太高了，我又不<a id="more"></a>喜欢打游戏，在手上就是浪费，今天我们月底考核，运营考核炸了，我根本就没有时间去及那些东西，加上一些因数，总之下次加油吧，我想我可能对以后有了目标了，不是做编程就是平面设计，不过在这之前我想我要把英语学好。<br>昨天才把博客恢复，还没来得及发一篇博客，今天中午就想着发一篇。</p>]]></content>
     
     <summary type="html">
     
+      &lt;p&gt;之前电脑又坏了，寄到京东售后那边去维修了，前天我才拿到电脑，有点后悔了，买错电脑了，不应该买雷神的，不是雷神不好，而是我不需要游戏笔记本&lt;br&gt;这款配置太高了，我又不&lt;/p&gt;
+    
     </summary>
     
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
