@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-23T13:48:30.107Z</updated>
+  <updated>2018-11-27T15:09:14.510Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018.11.27</title>
+    <link href="http://yoursite.com/2018/11/27/no12/"/>
+    <id>http://yoursite.com/2018/11/27/no12/</id>
+    <published>2018-11-27T15:04:36.000Z</published>
+    <updated>2018-11-27T15:09:14.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>觉得是对的就去做，勿要畏手畏脚!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;觉得是对的就去做，勿要畏手畏脚!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="心得" scheme="http://yoursite.com/categories/%E5%BF%83%E5%BE%97/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>天下没有不散的宴席</title>
