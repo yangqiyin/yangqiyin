@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-27T15:09:14.510Z</updated>
+  <updated>2018-12-06T08:28:09.238Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习</title>
+    <link href="http://yoursite.com/2018/12/06/no-13/"/>
+    <id>http://yoursite.com/2018/12/06/no-13/</id>
+    <published>2018-12-06T08:12:35.000Z</published>
+    <updated>2018-12-06T08:28:09.238Z</updated>
+    
+    <content type="html"><![CDATA[<p> 学习是为了什么？<br>为了以后能有一份好的工作，赚更多的钱，当然这只是我庸俗的想发，有的人只是为了让自己的知识变得更加的丰富，我没办法，我不认真的学习我以后的日子过的很艰难的，我只能通过自己的不断努力去得到的想要的东西。<br>最近参加了基地的一个腾讯项目。比我想得还好，虽然这个项目没有什么值得学习的地方，毕竟可以锻炼自己，或许吧，我希望我在这个项目上能给自己创造价值，每天利用空余的时间学习学习我所觉得有用的编程语言python，有时候我也想静下心来看看书，或者是和同学一起去打台球，出太阳的时候出去骑单车或者是躺在草坪上晒晒太阳，学习一下英语单词，我初中和高中都没怎么看重英语，现在觉得很有必要学习英语，因为我要学习编程就少不了要看英语单词，我又看不懂，总不可能一直使用百度翻译吧，我觉得这很菜鸡。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 学习是为了什么？&lt;br&gt;为了以后能有一份好的工作，赚更多的钱，当然这只是我庸俗的想发，有的人只是为了让自己的知识变得更加的丰富，我没办法，我不认真的学习我以后的日子过的很艰难的，我只能通过自己的不断努力去得到的想要的东西。&lt;br&gt;最近参加了基地的一个腾讯项目。比我想得还好
+      
+    
+    </summary>
+    
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="有感而发" scheme="http://yoursite.com/tags/%E6%9C%89%E6%84%9F%E8%80%8C%E5%8F%91/"/>
+    
+  </entry>
   
   <entry>
     <title>2018.11.27</title>
